@@ -1,0 +1,21 @@
+#hiddenSubmit, #hiddenMetrics, #hiddenRateIt, #hiddenThankYou {
+  display: none;
+}
+
+#showSubmit, #showMetrics, #showRateIt, #showThankYou {
+  display: block;
+}
+
+#showRateIt {
+  font-size: 18px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: solid 2px #737373;
+  width: 175px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
